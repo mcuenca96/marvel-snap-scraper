@@ -1,0 +1,17 @@
+{
+  "name": "marvel-snap-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "mongodb": "^6.0.0",
+    "mongoose": "^7.5.0",
+    "puppeteer": "^21.1.1"
+  }
+}
