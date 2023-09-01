@@ -1,8 +1,8 @@
 {
-  "name": "marvel-snap-scrapper",
+  "name": "marvel-snap-scraper",
   "version": "1.0.0",
   "description": "",
-  "main": "snapzonescrapper.js",
+  "main": "snapzonescraper.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
