@@ -9,3 +9,7 @@ Build in with nodejs and mongo db.
    
 3. run ```node snapzonescraper```
 
+
+Thanks to [Marvel Snap Zone](https://marvelsnapzone.com/).
+
+
